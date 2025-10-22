@@ -1,4 +1,5 @@
 # abdulmanan-demo
 This is my first repository.
 <br>
-Author - Abdul Manancd
+Author - Abdul Manan
+
